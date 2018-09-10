@@ -4,7 +4,7 @@ TruthTable.js is a JavaScript library designed to work with truth tables.
 
 ## Prior Knowledge
 
-You must know about binary & truth tables. (See the JavaScript file for more info.
+You must know about binary & truth tables. (See the JavaScript file for more info.)
 
 ## Usage
 
