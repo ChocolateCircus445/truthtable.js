@@ -51,6 +51,7 @@ var NorGate;
 var XnorGate;
 var Edu; //Stands for Easy Decision Unit
 var TripleTruthTable
+var TruthTable4;
 
 TruthTable = function (a, b, table) {
   this.a = a;
